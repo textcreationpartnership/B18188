@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of some wonderful cures, lately performed by that well known and most highly approved medicine, called pilulæ in omnes morbos, or pills against all diseases. Together with a most useful discovery of the chief signs of the scurvey.</title>
+            <author>Bromfield, M.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18188</idno><idno type="EEBO-CITATION">99888613</idno>
+  <idno type="VID">195838</idno>
+  <idno type="EEBO-PROQUEST">2248544796</idno>
+  
+            <idno type="STC">Wing B4884B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[33]</idno>
+            <idno type="STC">ESTC R231277</idno>
+            <idno type="PROQUEST">ocm99888613</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888613e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195838)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of some wonderful cures, lately performed by that well known and most highly approved medicine, called pilulæ in omnes morbos, or pills against all diseases. Together with a most useful discovery of the chief signs of the scurvey.</title>
+                  <author>Bromfield, M.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_quack_medicine">
+            <pb n="1" facs="tcp:195838:1"/>
+            <head>A brief Account of some wonderful Cures, lately performed by that well known and most highly approved Medicine, CALLED <hi>Pilulae in omnes Morbos, or Pills against all Diseases.</hi>
+            </head>
+            <head type="sub">Together with A most useful Discovery of the chief Signs of the <hi>SCƲRVET.</hi>
+            </head>
+            <p>BEfore I make good what is promised in the Title, give me leave to request him that reads thus far, to deal so fairly by me, (and also to do himself that right) to read, and throughly consider this Paper before he otherwise Disposes of it, and if the matter contained in it proves Satisfactory, I shall conclude he will not think himself much injured in his Expence of three or four mi<g ref="char:EOLhyphen"/>nutes time, to peruse it.</p>
+            <p>The next thing note-worthy, is, to present the Reader with a short view of some remarkable Cures, wrought by this incomparable Medicine, and in these, the judicious Reader may plainly see, are compre<g ref="char:EOLhyphen"/>hended almost all diseases incident to Mankind.</p>
+            <p n="1">I. Mr. <hi>Baverstock,</hi> Ironmonger in <hi>Rumsey Hampshire,</hi> being extremely troubled with Weakness and Stop-page in his stomach, as also with an Asthma or short<g ref="char:EOLhyphen"/>ness of breath, was perfectly Cured with my Pills.</p>
+            <p n="2">II. Mr. <hi>Rowland</hi> the Minister of <hi>Bishopston,</hi> near <hi>Marlborow</hi> in <hi>Wiltshire,</hi> being brought even to the grave with a most dangerous <hi>Scurvy</hi> and <hi>Dropsie,</hi> re<g ref="char:EOLhyphen"/>ceived a most wonderful Cure with my <hi>Pills.</hi>
+            </p>
+            <p n="3">III. <hi>John White</hi> Servant to Mr. <hi>Marshall</hi> of St. <hi>Al<g ref="char:EOLhyphen"/>bans,</hi> was exceedingly afflicted with the Yellow and Black <hi>Jaundies,</hi> also had the <hi>Scurvy</hi> in a very high degree, and an exceeding dangerous <hi>Dropsie,</hi> so that all gave him over for a dead Man, yet was perfectly Cured with my <hi>Pills.</hi>
+            </p>
+            <p n="4">IV. Mr. <hi>Leeds</hi> living at the Wheat-Sheaves and Pidgeons in <hi>Portsmouth,</hi> being very much afflicted with a dangerous <hi>Scurvy</hi> and <hi>Dropsie,</hi> so that his Physicians gave him over for a dead Man, was by the blessing of God, upon the use of my <hi>Pills</hi> perfectly recovered.</p>
+            <p n="5">V. Mr. <hi>Simon Warner</hi> of <hi>Stowmarket</hi> in <hi>Suffolk,</hi> my Pills cured him of Griping in the Guts, and great indisposition of body.</p>
+            <p n="6">VI. Mr. <hi>John Johnson,</hi> Servant to Mr. <hi>Thomas Forth,</hi> Brewer in St. <hi>Gile</hi>'s in the Fields, being so far gone in a dangerous Dropsie, that he appeared absolutely past cure, was perfectly cured with my Pills.</p>
+            <p n="7">VII. <hi>Richard Cobb</hi> of <hi>Northwheatly</hi> near <hi>Retford</hi> in <hi>Nottinghamshire,</hi> was much afflicted with a violent Feaver and Ague, he took but three times of my Pills, and was perfectly cured.</p>
+            <p n="8">VIII. <hi>Alice White</hi> of <hi>Burton</hi> in <hi>Nottinghamshire,</hi> was extreamly troubled with the Scurvy, had an ill habit of body, and several sores in her legs; all which were perfectly cured with my Pills.</p>
+            <p n="9">IX. Mr. <hi>John Hall</hi> of <hi>Stowmarket</hi> in <hi>Suffolk,</hi> being extreamly afflicted with the Scurvy and Gout, was cured with my Pills.</p>
+            <p>An Abstract of a Letter from <hi>Richard Carter</hi> Distil<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er at <hi>Chichester.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Doctor,</salute>
+                  </opener>
+                  <p>THese are to acquaint thee with a remarkable Cure that hath been lately performed with thy <hi>Pills,</hi> upon the Daughter of <hi>Edmund Stevens</hi> of the Parish of <hi>Appledrum,</hi> near this City; she hath been extremely afflicted with tormenting pains in her Stomach and Bow<g ref="char:EOLhyphen"/>els, and many times in all her limbs, with great weak<g ref="char:EOLhyphen"/>ness in all parts of her body, seeming to be in a Consumptive condition, very much loatbing her meat, not being in a capacity to eat with her Father and Mother at their Table in several years; much hath been spent upon Physicians and in Physick for her Cure, but all in vain; and she con<g ref="char:EOLhyphen"/>tinuing in this sad condition from seven years old, to the age of seventeen years, caused her Relations to despair of ever getting help for her; yet notwithstanding all seeming unlikeliness of her recovery, she is perfectly cured with taking thy <hi>Pills</hi> and hath continued in good health ever since last Spring; and this will be testified to any that shall enquire, by her Father and Mother (who are credible persons) and who also desired me to give thee this account; I might also inform thee of several others, but having no order for it by those cured, shall say no more at present, but rest</p>
+                  <closer>
+                     <dateline>
+                        <hi>Chichester</hi>
+                        <date>the <hi>19th</hi> of the <hi>11th</hi> Moneth, <hi>1677.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Thy Friend Rich. Carter.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I shall now according to promise in the Title give you the chief signs of the <hi>Scurvy,</hi>
+            </p>
+            <p>Which are, Giddiness in the head, sudden Flush<g ref="char:EOLhyphen"/>ings, Heat, and Redness in the face, and body, putri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>action and stinking of the Gums, Tooth-ach, Stink<g ref="char:EOLhyphen"/>ing-Breath, Blackness and Looseness of the Teeth, want of Digestion, much Wind and unsavory Belch<g ref="char:EOLhyphen"/>ings, and by thick Vapours arising from the <hi>HY<g ref="char:EOLhyphen"/>POCHONDRIA</hi> to the Midriff, are occasioned obstructions of respiration or shortness of Breath, and straitness of the Breast, &amp;c. the body is dull and hea<g ref="char:EOLhyphen"/>vy, and in the Legs are spots, sometimes red, yel<g ref="char:EOLhyphen"/>low, purple, black or blue; there are also violent pains in the head, Shoulders, Arms, Fingers, Belly, Thight, Knees, Legs, Ankles, Feet and Toes, other signs of the <hi>Scurvy</hi> are bad sleep, and frightful dreams, a feve<g ref="char:EOLhyphen"/>rish heat and sweats towards the morning; some have risings on their bodies, as if stung with Nettles Bees or Wasps, &amp;c. these are the most usual signs of the <hi>Scurvy.</hi> Though note, every one in this Disease, hath not all these signs at once, but some have more, and some fewer of them.</p>
+            <pb n="2" facs="tcp:195838:2"/>
+            <p>Withal observe, and you will find there are very few afflicted with any Distemper of long continuance, who have not joyned with it a scorbutick taint, which unless it be considered, and some powerful antiscor<g ref="char:EOLhyphen"/>butick medicament given, the Patient is very rarely, if ever Cured.</p>
+            <p>Therefore in long continued or lingering diseases, let a speedy recourse be had to my Pill, as your only Remedy, wherein will be certainly found such thorow help and satisfaction, that all persons in any degree afflicted with the Scurvy, or other curable distemper, will esteem it (for recovery of health) the only Jewel of the World.</p>
+            <p>So that against this very Disease, the <hi>Scurvy</hi> (as well, as for cure of such other distempers as come within the reach or power of Physick to remove;) you have here offered you the most tryed and appro<g ref="char:EOLhyphen"/>ved Medicine of this Kingdom, which also operates in its Cure of each Disease, with all the ease, gentleness, safety, and speed imaginable, first carrying off, only the offending matter, and then adding health and vi<g ref="char:EOLhyphen"/>gour to the diseased and weakned body.</p>
+            <p>All which forementioned vertues, and very many more have been truly ascribed to this excellent and most soveraign. Medicine, by many knowing and lear<g ref="char:EOLhyphen"/>ned men, as well Physicians as others, and by such as have been of Noble Families, which I have to shew under hand and seal, who, upon a thorow tryal and experience of it, have candidly acknowledged, (in right of my Medicine) that for Cure of the most difficult and dangerous distempers, no Medicine ye<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> found out, hath proved comparable to</p>
+            <p>
+               <hi>
+                  <hi>Bromfield</hi>'s Pills.</hi>
+            </p>
+            <p>A more particular, large, and satisfactory account of their great Cures, you will have in the book deli<g ref="char:EOLhyphen"/>vered <hi>gratis</hi> with them, in which also are very plain and full directions for the manner of taking them.</p>
+            <p>They are sealed up in tin Boxes, with my Seal at arms, being a Lion passant guardant, the larger Box of forty Pills (within one or two more or less) is sold at three shillings, and the lesser Box of nine<g ref="char:EOLhyphen"/>teen or twenty Pills, at Eighteen pence; and are sold by</p>
+            <p>Mr. <hi>Henry Brome,</hi> Bookseller at the Gun near the West end of St. <hi>Paul</hi>'s Church.</p>
+            <p>Mr. <hi>Robert Boulter,</hi> Bookseller at the Turks head a<g ref="char:EOLhyphen"/>gainst the Royal Exchange in <hi>Cornhil.</hi>
+            </p>
+            <p>Mr. <hi>John Painter,</hi> Coffee-man, at his house common<g ref="char:EOLhyphen"/>ly called <hi>John</hi>'s Coffee-house, above the Royal Exchange in <hi>Cornhil.</hi>
+            </p>
+            <p>Mrs. <hi>Alkin,</hi> Confectioner at the Lion and Ball against <hi>Cree-Church</hi> in <hi>Leaden-hall-street.</hi>
+            </p>
+            <p>Mr. <hi>Tuthill,</hi> Bookseller at the Chirurgions Sign near the <hi>Armitage Bridge.</hi>
+            </p>
+            <p>Mr. <hi>Butcher,</hi> Distiller at the Plow and Still against the George-Inn in <hi>Southwark,</hi>
+            </p>
+            <p>Mr. <hi>Tho. Chew,</hi> Distiller at the Green-man near <hi>Smith-field-Bars.</hi>
+            </p>
+            <p>Mr. <hi>Daniel Bennet,</hi> Cutler in <hi>Popes-head Alley</hi> in <hi>Cornhil.</hi>
+            </p>
+            <p>Mr. <hi>Milward,</hi> at <hi>Westminster-hall-gate.</hi>
+            </p>
+            <p>Mrs. <hi>Lion,</hi> Grocer, at the Tobacco-Roll at little <hi>Queen-street</hi> end in <hi>High-Holborn.</hi>
+            </p>
+            <p>Mr. <hi>John Bayns,</hi> Tin-man at the Bird-cage, at <hi>Cock<g ref="char:EOLhyphen"/>lane</hi> end against <hi>Holborn</hi> Conduit.</p>
+            <p>Mr. <hi>John Starkey,</hi> Bookseller at the Mitre in <hi>Fleet-street</hi> near <hi>Temple-bar</hi>
+            </p>
+            <p>Mr. <hi>Robert Bentley,</hi> Bookseller at the Posthouse in <hi>Russel-street Covent-garden.</hi>
+            </p>
+            <p>Mrs. <hi>Duke,</hi> Coffee-seller against the Star-Inne in the <hi>Strand</hi> near <hi>Charing-Cross.</hi>
+            </p>
+            <p>Mrs. <hi>Pierson,</hi> Distiller at the Golden Still against the Mitre-Tavern in <hi>Kings-street Westminster.</hi>
+            </p>
+            <p>Mr. <hi>Flaxmore,</hi> at the Maiden-head near <hi>Cherry-Garden Stairs</hi> on <hi>Redrif-wall.</hi>
+            </p>
+            <p>Mr. <hi>Crosdeal,</hi> Chandler, next the Kings-head near <hi>Battle-bridge</hi> in <hi>Tooly-street.</hi>
+            </p>
+            <p>Mr. <hi>James Allen,</hi> Haberdasher of Hats, at the Hat and Harow against the Bull-Inn within <hi>Bishops-gate.</hi>
+            </p>
+            <p>Mr. <hi>Thomas Stent,</hi> Cheesemonger without the Bars a<g ref="char:EOLhyphen"/>gainst <hi>Hoglane</hi> in <hi>Bishopsgate-street.</hi>
+            </p>
+            <p>Mr. <hi>King,</hi> Razor-maker at the flying-horse against St. <hi>Clements</hi> Church in the <hi>Strand.</hi>
+            </p>
+            <p>Mr. <hi>Thomas Pilkinton,</hi> Hosier over against <hi>Criplegate</hi> Church.</p>
+            <p>Mr. <hi>Gabriel Kunbolt,</hi> Stationer at the Kings-head a<g ref="char:EOLhyphen"/>gainst the Muse near <hi>Charing-Cross.</hi>
+            </p>
+            <p>Mr. <hi>Edmund Trimmer,</hi> at the Bear at Bear-key near the <hi>Custome-house.</hi>
+            </p>
+            <p>Mr. <hi>Richard Northcot,</hi> Bookseller on <hi>New Fish-street Hill</hi> near <hi>London-bridge,</hi> and at his Shop in <hi>Cornhil</hi> joyning to St. <hi>Peters Alley.</hi>
+            </p>
+            <p>Mr. <hi>Humphry Cooper,</hi> Distiller at <hi>Queen-hive</hi>-stairs.</p>
+            <p>Mr. <hi>Edward Chandler,</hi> Shoomaker at Old <hi>Bedlam</hi> Gate going into <hi>Moor Fields.</hi>
+            </p>
+            <p>Mr. <hi>Ralph Smith,</hi> Bookseller at the Bible under the Royal Exchange in <hi>Cornhil.</hi>
+            </p>
+            <p>Mr. <hi>William Marshall,</hi> Bookseller at the Bible in <hi>New<g ref="char:EOLhyphen"/>gate-street,</hi> at the end of <hi>Ivy-Lane.</hi>
+            </p>
+            <p>Mr. <hi>Man</hi>'s, Coffee-man in <hi>Exchange Alley</hi> in <hi>Cornhill.</hi> and at his Coffee-house in <hi>Abchurch-Lane.</hi>
+            </p>
+            <p>
+               <hi>And at my House at the Blew Balls in Plow-yard in Fetter-lane,</hi> LONDON.</p>
+            <div type="postscript">
+               <head>Postscript.</head>
+               <p>☜ Further observe, these Pills are also of admirable use for such as use the Seas, to whom the Scurvy, and many other Diseases are very incident; partly from bad Airs, Sea Fogs, sudden Heats and Colds, much salt Diet; and sometimes from excessive drinking of Forein and un<g ref="char:EOLhyphen"/>frequented Liquors, <hi>&amp;c.</hi>
+               </p>
+               <p>AND, if three or four doses of them be taken by any person at his arrival into any foreign Country, they will certainly prevent the Scurvey, all indispositions of body, Surfeits, all Fluxes, Agues, Fevers, Calenture, &amp;c. some one or more of which frequently seising many persons upon alteration of their native air, either by long Voyages at sea, or upon their first going into a strange Country.</p>
+               <p>☜ ALSO, this is that most excellent Pill so famous against the <hi>Pox, Gonorrhaea,</hi> or <hi>Running of the Reins,</hi> and for such as formerly have had either of those Diseases, and suspect an ill Cure, or dread a relapse.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
